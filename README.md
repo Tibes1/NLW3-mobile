@@ -7,10 +7,6 @@ O **NLW (Next Level Week)**, em tradução livre, Semana do Próximo Nível, é 
 
 A 3º edição do evento, no qual foi proposto e realizado o desenvolvimento do projeto **Happy**, tanto aplicação web como mobile, utilizando ReactJS e React Native.
 
-<h1 align="center">
-    <img alt="Logo Happy" title="Logo Happy" src=".github/happy-logo.svg" />
-</h1>
-
 <p align="center">
   <a href="#-projeto"><strong>Projeto</strong></a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-cronograma"><strong>Cronograma</strong></a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -24,7 +20,7 @@ A 3º edição do evento, no qual foi proposto e realizado o desenvolvimento do 
 O **[Happy](https://github.com/bryan-lima/NLW-3)** é uma aplicação desenvolvida com motivação pelo [Dia das Crianças](https://www.google.com/search?q=dia+das+crianças), e tem como objetivo aproximar e conectar pessoas à casas de acolhimento institucional (orfanatos), para tornar o dia dessas crianças ainda mais especial.
 
 <h1 align="center">
-    <img alt="Home Happy - Web Version" title="Home Happy - Web Version" src=".github/happy-home-web.svg" width="500px" />
+    <img alt="Home Happy - Web Version" title="Home Happy - Web Version" src="https://cdn.discordapp.com/attachments/722536638718148718/1257862467518730270/1602688256918.png?ex=6685f336&is=6684a1b6&hm=34d67adc5613d7421fa1106cfcc219665aa350bfcad497c6de91d1481fc4044c&" width="500px" />
 </h1>
 
 ## 📅 Cronograma
