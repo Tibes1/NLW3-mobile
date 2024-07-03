@@ -12,7 +12,6 @@ A 3º edição do evento, no qual foi proposto e realizado o desenvolvimento do 
   <a href="#-cronograma"><strong>Cronograma</strong></a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-ambiente"><strong>Ambiente</strong></a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-tecnologias-utilizadas"><strong>Tecnologias utilizadas</strong></a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-licença"><strong>Licença</strong></a>
 </p>
 
 ## 💡 Projeto
